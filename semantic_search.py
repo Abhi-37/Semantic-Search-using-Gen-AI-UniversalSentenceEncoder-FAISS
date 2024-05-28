@@ -3,7 +3,7 @@ import numpy as np
 import tensorflow as tf
 import tensorflow_hub as hub
 import faiss
-import re
+import re 
 
 # Suppressing warnings
 import warnings
